@@ -1,0 +1,391 @@
+[Workspace Header]
+Version = 1302
+Pathname Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Pathname Line0002 = "ontroller_0.2/SHE Controller.cws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2013"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2013"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "SHE Controller.prj"
+Drag Bar Left = 160
+Window Top = 130
+Window Left = 26
+Window Bottom = 632
+Window Right = 816
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win At Start = True
+Bring Up Err Win For Errors = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 16
+Window Confinement Region Enabled = True
+MainColumnWidth = 143
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+
+[Project Header 0001]
+Version = 1302
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+
+[File 0001]
+Path Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Path Line0002 = "ontroller_0.2/SHE Controller.uir"
+File Type = "User Interface Resource"
+Disk Date = 3494604220
+In Projects = "1,"
+Window Top = 32
+Window Left = 10
+Window Height = 323
+Window Width = 683
+Window Z-Order = 1
+
+[File 0002]
+Path Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Path Line0002 = "ontroller_0.2/SHE_Globals.h"
+File Type = "Include"
+Disk Date = 3476819963
+In Projects = "1,"
+Window Top = 332
+Window Left = 170
+Window Z-Order = 9
+Source Window State = "1,30,30,30,8,18,18,0,3,80,0,2,0,0,0,25,24,0,30,8,349,683,1,9,"
+
+[File 0003]
+Path Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Path Line0002 = "ontroller_0.2/AligentSweeper.c"
+File Type = "CSource"
+Disk Date = 3490190638
+In Projects = "1,"
+Window Top = 152
+Window Left = 74
+Window Z-Order = 12
+Source Window State = "1,87,90,90,0,44,44,0,0,80,0,0,0,0,0,25,40,0,82,144,349,683,1,0,"
+
+[File 0004]
+Path Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Path Line0002 = "ontroller_0.2/SHE Controller.c"
+File Type = "CSource"
+Disk Date = 3473254298
+In Projects = "1,"
+Window Top = 32
+Window Left = 10
+Window Z-Order = 3
+Source Window State = "1,250,281,281,180,174,174,0,0,80,0,301,0,0,0,25,327,0,92,8,349,683,1,0,"
+
+[File 0005]
+Path Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Path Line0002 = "ontroller_0.2/BigMag.c"
+File Type = "CSource"
+Disk Date = 3465308426
+In Projects = "1,"
+Window Top = 32
+Window Left = 10
+Window Z-Order = 16
+Source Window State = "1,111,111,111,11,14,11,0,0,80,0,9,0,0,0,25,77,0,89,8,349,683,1,9,"
+
+[File 0006]
+Path Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Path Line0002 = "ontroller_0.2/Yoko.c"
+File Type = "CSource"
+Disk Date = 3473253747
+In Projects = "1,"
+Window Top = 332
+Window Left = 170
+Window Z-Order = 10
+Source Window State = "1,64,64,64,5,13,13,0,3,80,0,28,0,1,0,25,37,0,64,5,349,683,1,9,"
+
+[File 0007]
+Path Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Path Line0002 = "ontroller_0.2/2400_Mag_Control.c"
+File Type = "CSource"
+Disk Date = 3496405266
+In Projects = "1,"
+Window Top = 182
+Window Left = 90
+Window Z-Order = 2
+Source Window State = "1,53,53,53,64,97,64,0,0,80,0,6,0,6,0,25,39,0,51,4,349,683,1,0,"
+
+[File 0008]
+Path Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Path Line0002 = "ontroller_0.2/Lockins.c"
+File Type = "CSource"
+Disk Date = 3467812547
+In Projects = "1,"
+Window Top = 30
+Window Z-Order = 7
+Source Window State = "1,36,36,36,5,16,16,0,3,70,0,0,0,0,0,28,27,0,36,5,400,600,1,0,"
+
+[File 0009]
+Path Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Path Line0002 = "ontroller_0.2/Keithley2k.c"
+File Type = "CSource"
+Disk Date = 3462802870
+In Projects = "1,"
+Window Top = 62
+Window Left = 26
+Window Z-Order = 11
+Source Window State = "1,50,50,50,7,22,22,0,0,80,0,0,0,0,0,25,29,0,55,4,349,683,1,0,"
+
+[File 0010]
+Path Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Path Line0002 = "ontroller_0.2/Lockins.h"
+File Type = "Include"
+Disk Date = 3423654739
+In Projects = "1,"
+Window Top = 433
+Window Left = 234
+Window Z-Order = 6
+Source Window State = "1,24,24,24,8,23,23,0,0,80,0,0,0,0,0,25,0,0,53,24,349,683,1,0,"
+
+[File 0011]
+Path = "/c/Program Files (x86)/National Instruments/CVI2013/include/gpib.h"
+File Type = "Include"
+Disk Date = 3486513600
+In Projects = ""
+Window Top = 32
+Window Left = 10
+Window Z-Order = 15
+Source Window State = "1,76,76,76,16,21,21,0,0,80,0,0,0,0,0,25,114,0,45,61,349,683,1,0,"
+
+[File 0012]
+Path Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Path Line0002 = "ontroller_0.2/2400_Mag_Control.h"
+File Type = "Include"
+Disk Date = 3423661559
+In Projects = "1,"
+Window Top = 212
+Window Left = 106
+Window Z-Order = 4
+Source Window State = "1,27,27,27,25,27,25,0,3,80,0,0,0,0,0,25,4,0,27,27,349,683,1,0,"
+
+[File 0013]
+Path Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Path Line0002 = "ontroller_0.2/SHE_Controller_CB.c"
+File Type = "CSource"
+Disk Date = 3473254300
+In Projects = "1,"
+Window Top = 92
+Window Left = 42
+Window Z-Order = 14
+Source Window State = "1,322,322,322,16,19,19,0,0,80,0,0,0,0,0,25,230,0,242,69,349,683,1,0,"
+
+[File 0014]
+Path Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Path Line0002 = "ontroller_0.2/AligentSweeper.h"
+File Type = "Include"
+Disk Date = 3423672290
+In Projects = "1,"
+Window Top = 182
+Window Left = 90
+Window Z-Order = 13
+Source Window State = "1,37,37,37,5,29,29,0,0,80,0,0,0,0,0,25,0,0,38,32,349,683,1,0,"
+
+[File 0015]
+Path Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Path Line0002 = "ontroller_0.2/Keithley2k.h"
+File Type = "Include"
+Disk Date = 3496056865
+In Projects = "1,"
+Window Top = 212
+Window Left = 106
+Window Z-Order = 5
+Source Window State = "1,25,25,25,27,29,27,0,0,80,0,0,0,0,0,25,0,0,25,29,349,683,1,19,"
+
+[File 0016]
+Path Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Path Line0002 = "ontroller_0.2/Yoko.h"
+File Type = "Include"
+Disk Date = 3473194194
+In Projects = "1,"
+Window Top = 362
+Window Left = 186
+Window Z-Order = 8
+Source Window State = "1,32,32,32,8,17,17,0,0,80,0,0,0,0,0,25,20,0,32,20,349,683,1,0,"
+
+[File 0017]
+Path Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Path Line0002 = "ontroller_0.2/BigMag.h"
+File Type = "Include"
+Disk Date = 3461594182
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0018]
+Path Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/CNS_a"
+Path Line0002 = "ngle.c"
+File Type = "CSource"
+Disk Date = 3451912834
+In Projects = "1,"
+Window Top = 92
+Window Left = 42
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,349,683,1,0,"
+
+[File 0019]
+Path Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/CNS_a"
+Path Line0002 = "ngle.h"
+File Type = "Include"
+Disk Date = 3451912052
+In Projects = "1,"
+Window Top = 212
+Window Left = 106
+Source Window State = "1,39,39,39,9,19,9,0,0,0,0,0,0,0,0,0,0,0,41,38,349,683,1,0,"
+
+[File 0020]
+Path Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Path Line0002 = "ontroller_0.2/SHE Controller.h"
+File Type = "Include"
+Disk Date = 3473254165
+In Projects = "1,"
+Window Top = 30
+Source Window State = "1,51,51,51,9,25,25,0,3,0,0,0,0,0,0,0,48,0,51,9,400,600,1,0,"
+
+[File 0021]
+Path Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Path Line0002 = "ontroller_0.2/SHE_Controller_CB.h"
+File Type = "Include"
+Disk Date = 3423579870
+In Projects = "1,"
+Window Top = 152
+Window Left = 74
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,349,683,1,0,"
+
+[Tab Order]
+Tab 0001 Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Tab 0001 Line0002 = "ontroller_0.2/BigMag.c"
+Tab 0002 = "/c/Program Files (x86)/National Instruments/CVI2013/include/gpib.h"
+Tab 0003 Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Tab 0003 Line0002 = "ontroller_0.2/SHE_Controller_CB.c"
+Tab 0004 Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Tab 0004 Line0002 = "ontroller_0.2/2400_Mag_Control.h"
+Tab 0005 Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Tab 0005 Line0002 = "ontroller_0.2/Lockins.c"
+Tab 0006 Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Tab 0006 Line0002 = "ontroller_0.2/SHE Controller.uir"
+Tab 0007 Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Tab 0007 Line0002 = "ontroller_0.2/AligentSweeper.h"
+Tab 0008 Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Tab 0008 Line0002 = "ontroller_0.2/Lockins.h"
+Tab 0009 Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Tab 0009 Line0002 = "ontroller_0.2/Keithley2k.h"
+Tab 0010 Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Tab 0010 Line0002 = "ontroller_0.2/AligentSweeper.c"
+Tab 0011 Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Tab 0011 Line0002 = "ontroller_0.2/2400_Mag_Control.c"
+Tab 0012 Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Tab 0012 Line0002 = "ontroller_0.2/Keithley2k.c"
+Tab 0013 Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Tab 0013 Line0002 = "ontroller_0.2/Yoko.c"
+Tab 0014 Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Tab 0014 Line0002 = "ontroller_0.2/Yoko.h"
+Tab 0015 Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Tab 0015 Line0002 = "ontroller_0.2/SHE_Globals.h"
+Tab 0016 Line0001 = "/c/Users/RalphGroup/Dropbox/Data Shuttle/Equipment and Automation/Programs/SHE_C"
+Tab 0016 Line0002 = "ontroller_0.2/SHE Controller.c"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0001]
+Number of Dependencies = 0
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+

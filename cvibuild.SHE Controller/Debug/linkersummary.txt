@@ -1,0 +1,20 @@
+2400_Mag_Control.obj
+AligentSweeper.obj
+BigMag.obj
+CNS_angle.obj
+Keithley2k.obj
+Lockins.obj
+SHE Controller.obj
+SHE_Controller_CB.obj
+Yoko.obj
+cvi.lib
+gpib.lib
+cvistart.lib
+toolbox.obj
+advapi32.lib
+cviauto.lib
+gdi32.lib
+kernel32.lib
+user32.lib
+EXE Symbol Module
+Resource Module

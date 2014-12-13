@@ -1,0 +1,12 @@
+[rf_init]
+Class="Function"
+Prototype="void rf_init();"
+
+[rf_set_freq]
+Class="Function"
+Prototype="void rf_set_freq(double freq);"
+
+[rf_set_power]
+Class="Function"
+Prototype="void rf_set_power(double power);"
+

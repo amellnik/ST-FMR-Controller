@@ -1,0 +1,16 @@
+[InitBigMagnet]
+Class="Function"
+Prototype="void InitBigMagnet();"
+
+[BigMagSetAmps]
+Class="Function"
+Prototype="void BigMagSetAmps(double amps);"
+
+[BigMagSetTesla]
+Class="Function"
+Prototype="void BigMagSetTesla(double tesla);"
+
+[BigMagReadS1H]
+Class="Function"
+Prototype="void BigMagReadS1H();"
+

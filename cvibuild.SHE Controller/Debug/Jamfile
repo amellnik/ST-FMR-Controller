@@ -1,0 +1,100 @@
+CCFLAGS = -g ;
+HDRS = 	"c:\\program files (x86)\\national instruments\\cvi2013\\toolslib\\activex\\word"
+	"c:\\program files (x86)\\national instruments\\cvi2013\\toolslib\\activex\\excel"
+	"c:\\program files (x86)\\national instruments\\cvi2013\\toolslib\\custctrl"
+	"c:\\program files (x86)\\national instruments\\cvi2013\\toolslib\\custctrl\\custsupp"
+	"c:\\program files (x86)\\national instruments\\cvi2013\\toolslib\\cvirtsup"
+	"c:\\program files (x86)\\national instruments\\cvi2013\\toolslib\\datasock"
+	"c:\\program files (x86)\\national instruments\\cvi2013\\toolslib\\daqUtil"
+	"c:\\program files (x86)\\national instruments\\cvi2013\\toolslib\\printing"
+	"c:\\program files (x86)\\national instruments\\cvi2013\\toolslib\\toolbox"
+	"c:\\program files (x86)\\national instruments\\cvi2013\\toolslib\\reportgen"
+	"c:\\program files (x86)\\national instruments\\cvi2013\\toolslib\\localui"
+	"c:\\program files (x86)\\national instruments\\cvi2013\\instr"
+	"C:\\Program Files (x86)\\National Instruments\\Shared\\CVI\\toolslib\\custctrl"
+	"C:\\Program Files (x86)\\National Instruments\\Shared\\CVI\\toolslib\\custctrl\\custsupp"
+	"C:\\Program Files (x86)\\National Instruments\\Shared\\CVI\\instr"
+	"C:\\ProgramData\\National Instruments\\CVI2013\\instr"
+	"c:\\program files (x86)\\national instruments\\cvi2013\\include"
+	"C:\\Program Files (x86)\\National Instruments\\Shared\\CVI\\include"
+	"C:\\ProgramData\\National Instruments\\CVI2013\\include"
+	"C:\\ProgramData\\National Instruments\\CVI\\include"
+	"c:\\program files (x86)\\national instruments\\cvi2013\\include\\ansi"
+	"c:\\program files (x86)\\national instruments\\cvi2013\\include\\clang\\2.9"
+	"C:\\Program Files (x86)\\IVI Foundation\\IVI\\Include"
+	"C:\\Program Files (x86)\\IVI Foundation\\VISA\\winnt\\include"
+	"c:\\program files (x86)\\national instruments\\cvi2013\\sdk\\include"
+	"c:\\Program Files (x86)\\National Instruments\\CVI2013\\bin"
+	"c:\\ProgramData\\National Instruments\\CVI2013\\bin"
+	"c:\\Program Files (x86)\\National Instruments\\Shared\\CVI\\Bin"
+	;
+include Jamfile_instr ;
+LOCATE on "2400_Mag_Control.c" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2" ;
+LOCATE on "2400_Mag_Control.h" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2" ;
+LOCATE on "AligentSweeper.c" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2" ;
+LOCATE on "AligentSweeper.h" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2" ;
+LOCATE on "BigMag.c" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2" ;
+LOCATE on "BigMag.h" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2" ;
+LOCATE on "CNS_angle.c" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs" ;
+LOCATE on "CNS_angle.h" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs" ;
+LOCATE on "Keithley2k.c" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2" ;
+LOCATE on "Keithley2k.h" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2" ;
+LOCATE on "Lockins.c" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2" ;
+LOCATE on "Lockins.h" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2" ;
+LOCATE on "SHE Controller.c" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2" ;
+LOCATE on "SHE Controller.h" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2" ;
+LOCATE on "SHE_Controller_CB.c" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2" ;
+LOCATE on "SHE_Controller_CB.h" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2" ;
+LOCATE on "SHE_Globals.h" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2" ;
+LOCATE on "Yoko.c" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2" ;
+LOCATE on "Yoko.h" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2" ;
+Object "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\2400_Mag_Control.obj" : "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\2400_Mag_Control.c" ;
+FILENUM on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\2400_Mag_Control.obj" = 1 ;
+DEFPROTS on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\2400_Mag_Control.obj" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\2400_Mag_Control.obj.cvidefprots" ;
+OUTFILE on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\2400_Mag_Control.obj" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\2400_Mag_Control.obj.out" ;
+PrjObjects += "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\2400_Mag_Control.obj" ;
+Object "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\AligentSweeper.obj" : "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\AligentSweeper.c" ;
+FILENUM on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\AligentSweeper.obj" = 2 ;
+DEFPROTS on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\AligentSweeper.obj" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\AligentSweeper.obj.cvidefprots" ;
+OUTFILE on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\AligentSweeper.obj" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\AligentSweeper.obj.out" ;
+PrjObjects += "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\AligentSweeper.obj" ;
+Object "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\BigMag.obj" : "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\BigMag.c" ;
+FILENUM on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\BigMag.obj" = 3 ;
+DEFPROTS on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\BigMag.obj" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\BigMag.obj.cvidefprots" ;
+OUTFILE on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\BigMag.obj" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\BigMag.obj.out" ;
+PrjObjects += "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\BigMag.obj" ;
+Object "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\CNS_angle.obj" : "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\CNS_angle.c" ;
+FILENUM on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\CNS_angle.obj" = 4 ;
+DEFPROTS on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\CNS_angle.obj" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\CNS_angle.obj.cvidefprots" ;
+OUTFILE on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\CNS_angle.obj" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\CNS_angle.obj.out" ;
+PrjObjects += "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\CNS_angle.obj" ;
+Object "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\Keithley2k.obj" : "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\Keithley2k.c" ;
+FILENUM on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\Keithley2k.obj" = 5 ;
+DEFPROTS on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\Keithley2k.obj" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\Keithley2k.obj.cvidefprots" ;
+OUTFILE on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\Keithley2k.obj" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\Keithley2k.obj.out" ;
+PrjObjects += "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\Keithley2k.obj" ;
+Object "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\Lockins.obj" : "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\Lockins.c" ;
+FILENUM on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\Lockins.obj" = 6 ;
+DEFPROTS on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\Lockins.obj" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\Lockins.obj.cvidefprots" ;
+OUTFILE on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\Lockins.obj" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\Lockins.obj.out" ;
+PrjObjects += "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\Lockins.obj" ;
+Object "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\SHE Controller.obj" : "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\SHE Controller.c" ;
+FILENUM on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\SHE Controller.obj" = 7 ;
+DEFPROTS on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\SHE Controller.obj" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\SHE Controller.obj.cvidefprots" ;
+OUTFILE on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\SHE Controller.obj" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\SHE Controller.obj.out" ;
+PrjObjects += "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\SHE Controller.obj" ;
+Object "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\SHE_Controller_CB.obj" : "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\SHE_Controller_CB.c" ;
+FILENUM on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\SHE_Controller_CB.obj" = 8 ;
+DEFPROTS on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\SHE_Controller_CB.obj" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\SHE_Controller_CB.obj.cvidefprots" ;
+OUTFILE on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\SHE_Controller_CB.obj" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\SHE_Controller_CB.obj.out" ;
+PrjObjects += "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\SHE_Controller_CB.obj" ;
+Object "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\Yoko.obj" : "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\Yoko.c" ;
+FILENUM on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\Yoko.obj" = 9 ;
+DEFPROTS on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\Yoko.obj" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\Yoko.obj.cvidefprots" ;
+OUTFILE on "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\Yoko.obj" = "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\Yoko.obj.out" ;
+PrjObjects += "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\Yoko.obj" ;
+Object "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\resources.res" : "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\resources.in.rc" ;
+MainFromObjects "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\SHE Controller.exe" : $(PrjObjects) $(InstrObjects) ;
+Depends "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\SHE Controller.exe" : "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\link_options.txt" ;
+Depends "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\SHE Controller.exe" : "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\resources.res" ;
+Depends all : "c:\\Users\\RalphGroup\\Dropbox\\Data Shuttle\\Equipment and Automation\\Programs\\SHE_Controller_0.2\\cvibuild.SHE Controller\\Debug\\SHE Controller.exe" ;
